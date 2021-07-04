@@ -145,28 +145,28 @@ p.shap:after {
 }
 
 div#style3:before {
-   background: #cd0083;
+    background: #cd0083;
     content: "";
     position: absolute;
     left: 174px;
-    top: 1506px;
+    top: 1510px;
     width: 50%;
     height: 92px;
     transform: skewY(
 6deg
 );
-}
 
+}
 div#style3:after {
-    background: #cd0083;
+    background: #CD0083;
     content: "";
     position: absolute;
     right: 175px;
-    top: 1503px;
+    top: 1507px;
     width: 50%;
-    height: 92px;
+    height: 89px;
     transform: skewY(
-353deg
+-7deg
 );
 }
 
