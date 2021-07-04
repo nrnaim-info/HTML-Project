@@ -145,14 +145,16 @@ p.shap:after {
 }
 
 div#style3:before {
-    background: #cd0083;
+   background: #cd0083;
     content: "";
     position: absolute;
     left: 174px;
-    top: 1500px;
-    width: 43%;
-    height: 89px;
-    transform: skewY(6deg);
+    top: 1506px;
+    width: 50%;
+    height: 92px;
+    transform: skewY(
+6deg
+);
 }
 
 div#style3:after {
@@ -160,10 +162,12 @@ div#style3:after {
     content: "";
     position: absolute;
     right: 175px;
-    top: 1502px;
+    top: 1503px;
     width: 50%;
     height: 92px;
-    transform: skewY(-7deg);
+    transform: skewY(
+353deg
+);
 }
 
 span.ur{color:black}
